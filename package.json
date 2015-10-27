@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kangax/fabric.js"
+    "url": "https://github.com/audioio/fabric.js"
   },
   "bugs": {
-    "url": "https://github.com/kangax/fabric.js/issues"
+    "url": "https://github.com/audioio/fabric.js/issues"
   },
   "license": "MIT",
   "scripts": {
