@@ -6,9 +6,6 @@
   ],
   "description": "Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
   "main": "./dist/fabric.min.js",
-  "dependencies": {
-    "package-name": "master"
-  },
   "ignore": [
     "lib",
     "src",
