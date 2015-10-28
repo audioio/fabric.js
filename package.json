@@ -53,5 +53,19 @@
   "engines": {
     "node": ">=0.4.0"
   },
-  "main": "./dist/fabric.js"
+  "main": "./dist/fabric.js",
+  "jspm": {
+    "main": "./dist/fabric.min.js",
+    "ignore": [
+      "lib",
+      "src",
+      "test",
+      "build_all",
+      "build.js",
+      "build.sh",
+      "create_build_script.js",
+      "test.js",
+      "HEADER.js"
+    ]
+  }
 }
